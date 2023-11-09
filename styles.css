@@ -5,4 +5,22 @@
 	display:flex;
 	justify-content:space-between;
 }
-.ho
+
+.holder> div:nth-child(2)
+{
+	background-color:red;
+	width:100px;
+	height:100px;
+}
+.holder> div:first-child
+{
+	background-color:green;
+	width:100px;
+	height:100px;
+}
+.holder> div:last-child
+{
+	background-color:green;
+	width:100px;
+	height:100px;
+}
