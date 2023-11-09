@@ -11,6 +11,7 @@
 	background-color:red;
 	width:100px;
 	height:100px;
+	flex-wrap:row-reverse;
 }
 .holder> div:first-child
 {
